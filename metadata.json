@@ -1,0 +1,15 @@
+{
+    "key": 4,
+    "updateAuthority": "Your_Update_Authority_Public_Key",
+    "mint": "Your_Token_Mint_Address",
+    "data": {
+        "name": "Laszlo Hanyecz",
+        "symbol": "Laszlo",
+        "uri": "https://yourhost.com/path/to/ollenmiretoken-metadata.json",
+        "sellerFeeBasisPoints": 0
+    },
+    "primarySaleHappened": 1,
+    "isMutable": 1,
+    "editionNonce": 255,
+    "tokenStandard": 2
+}
