@@ -5,7 +5,7 @@
     "data": {
         "name": "Laszlo Hanyecz",
         "symbol": "Laszlo",
-        "uri": "https://yourhost.com/path/to/ollenmiretoken-metadata.json",
+        "uri": "https://github.com/Ollenmire/laszlo-symbol/raw/main/metadata.json",
         "sellerFeeBasisPoints": 0
     },
     "primarySaleHappened": 1,
